@@ -1,0 +1,21 @@
+{
+    "name": "isl/abstraite",
+    "description": "exo sur les classes abstraites",
+    "type": "project",
+    "require": {
+        "fakerphp/faker": "^1.20"
+    },
+    "license": "0000",
+    "autoload": {
+        "psr-4": {
+            "Isl\\Abstraite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "justyn",
+            "email": "marie.mbarga@isl-edu.be"
+        }
+    ],
+    "minimum-stability": "stable"
+}
